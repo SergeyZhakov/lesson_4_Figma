@@ -1,0 +1,59 @@
+/* &display=swap */
+
+@import url(null.css);
+
+@import url("https://fonts.googleapis.com/css?family=Lato:400,700,900&display=swap");
+
+.title {
+	font-style: normal;
+	font-weight: 900;
+	font-size: 46px;
+	line-height: 130%;
+	color: #1e212c;
+}
+.text {
+	font-style: normal;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 150%;
+	color: #1e212c;
+}
+
+.block__text2 {
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 160%;
+	color: #424551;
+}
+
+.block__bold {
+	font-style: normal;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 150%;
+	color: #1e212c;
+}
+
+.article__text {
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 160%;
+	color: #424551;
+}
+ul.list {
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 160%;
+	color: #424551;
+}
+
+.end__text {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 160%;
+	color: #424551;
+}
